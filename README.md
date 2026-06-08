@@ -1,7 +1,7 @@
  CS50 Finance — Stock Trading Web App
 
 
-# DEMO VIDEO : [https://youtu.be/eZrkNOLZ6_E?si=i9CcT8wnAho3w5hQ] #
+### DEMO VIDEO : [https://youtu.be/eZrkNOLZ6_E?si=i9CcT8wnAho3w5hQ] ###
 
 This project is my implementation of CS50x Problem Set 9: Finance. It’s a full-stack web application where users can register, log in, look up real-time stock prices, buy and sell shares, and track their portfolio and transaction history. The app is built using Flask, SQLite, Python, and the IEX API.
 
